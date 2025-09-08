@@ -44,7 +44,7 @@ Core components:
 ---
 
 ## 👥 Contributors  
-- **[Your Name]** – Concept & Proposal  
+- **Sheraz Ahmad** – Concept & Proposal  
 
 ---
 
